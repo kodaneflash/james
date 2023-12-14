@@ -78,18 +78,18 @@ export default function HeaderComponent() {
       <nav className="relative bg-white/90 backdrop-blur-[22px] backdrop-filter duration-200 h-full w-full items-center flex">
         <div className="max-w-7xl mx-auto flex flex-row w-full items-center justify-between px-8 xl:px-24">
           <Link href="/" className="text-lg font-semibold text-black">
-            Tyler Meyer
+            James Archer
           </Link>
           <div className="flex flex-row items-center justify-center gap-x-8">
             <Link
-              href="https://github.com/Tameyer41"
+              href="https://github.com/kodaneflash"
               target="_blank"
               className="text-[15px] font-normal text-gray-600"
             >
               Github
             </Link>
             <Link
-              href="https://www.linkedin.com/in/tylermeyer41/"
+              href="https://www.linkedin.com/in/archermjames/"
               target="_blank"
               className="text-[15px] font-normal text-gray-600"
             >

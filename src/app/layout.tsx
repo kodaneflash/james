@@ -2,8 +2,8 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata = {
-  title: `Tyler Meyer`,
-  description: "The portfolio for Software Engineer Tyler Meyer",
+  title: `James Archer`,
+  description: "Showcase of software projects by James Archer",
 };
 
 export default function RootLayout({

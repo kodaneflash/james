@@ -12,11 +12,12 @@ export default function Home() {
       <div className="relative h-[60px] md:h-[72px]"></div>
       <div className="max-w-7xl mx-auto w-full p-8 xl:px-24 flex flex-col gap-y-8">
         <p className="py-16 text-gray-600 text-[20px] leading-relaxed font-normal max-w-xl">
-          Software Engineer with a passion for building delightful user
-          interfaces. Front-end focused, but full-stack capable.
+        Software Developer that’s passionate about leveraging technical 
+        expertise to identify creative solutions that improve operational efficiency. 
+        Primarily focused on AI, machine-learning & software automation.
         </p>
         <p className="text-base text-gray-600 font-normal max-w-xl">
-          Selected projects
+          Showcase of selected projects
         </p>
         <div className="flex flex-col gap-y-6 pb-[72px]">
           <div className="max-h-[800px] flex aspect-video h-full w-full">
@@ -45,7 +46,7 @@ export default function Home() {
             <p className="text-base text-gray-600 font-normal">2023</p>
             <div className="flex flex-col gap-y-1">
               <p className="text-lg text-black font-semibold">
-                Liftoff — Experiential Demo
+                Syncade — Experiential Demo
               </p>
               <p className="text-base text-gray-600 font-normal max-w-3xl">
                 Moving the {`"`}ah-ha{`"`} moment closer to the user. Built with
@@ -67,7 +68,7 @@ export default function Home() {
                 </svg>
 
                 <Link
-                  href="https://demo.useliftoff.com/"
+                  href="https://www.syncade.io"
                   target="_blank"
                   className="underline text-base text-gray-600 font-normal"
                 >
@@ -176,17 +177,17 @@ export default function Home() {
         </div>
         <div className="flex flex-col gap-y-6 py-32">
           <p className="text-base text-gray-600 font-normal max-w-xl">
-            Thanks for checking my portfolio out!
+            Thank you for checking out my projects. You can find my personal website at jamesarcher.io
           </p>
           <p className="text-base text-gray-600 font-normal max-w-xl">
-            You can find reach me at{" "}
+            You can contact me at{" "}
             <span className="underline">
               {" "}
-              <Link href="mailto:tameyer41@gmail.com">
-                tyler@useliftoff.com
+              <Link href="mailto:james@nexacore.io">
+                james@nexacore.io
               </Link>
             </span>{" "}
-            if you{`'`}d like to get in touch.
+            if you would like to get in touch.
           </p>
         </div>
       </div>
